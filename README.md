@@ -25,7 +25,7 @@
    - Add your Discord bot token and client ID
 4. Start the bot:
    ```bash
-   npm start
+   npm run start
    ```
 
 ## 🔧 Configuration
